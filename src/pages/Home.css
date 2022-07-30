@@ -1,0 +1,107 @@
+.my-home{
+    margin-left: 170px;
+}
+.current-route{
+    font-size: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    color:#726D6B ;
+}
+.current-route b{
+    color: #000000;
+}
+
+.home-content{
+    display: flex;
+    background-color: #ebf4f5;
+}
+
+.first-seg{
+    width: 45%;
+}
+.loyalty-type{
+    padding: 10px 35px;
+
+}
+.loyalty-head{
+    display: flex;
+    justify-content:space-between;
+}
+.loyalty-box{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 130px;
+    width :100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 8px;
+    padding-right: 30px;
+}
+.loyalty-box img{
+    padding: 5px 20px;
+    border-radius: 25px;
+    height: 100%;
+}
+
+.message-setting{
+    width:55%;
+    padding: 10px 20px;
+    padding-top: 25px;
+}
+#my-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 15px;
+  }
+  
+  #my-table td, #my-table th {
+    padding: 15px;
+  }
+
+  
+  
+  
+  #my-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+  
+  }
+  
+  
+   table {
+    border: 1px solid #000000;
+    padding: 8px;
+  }
+  
+  
+  #my-table tr:hover {background-color: #ddd;}
+  
+  tr {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    margin-left:10px;
+    
+  }
+  
+  td{
+      border:1px solid black;
+      border-left: none;
+      border-right: none;
+      margin-left:10px;
+  }
+  .button {
+    background-color: #000000; /* black */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius:3px;
+  }
